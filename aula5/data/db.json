@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "nome": "jorge",
+            "email": "jorge@gmail.com",
+            "curso": "jorges"
+        },
+        {
+            "id": 2,
+            "nome": "antonio",
+            "email": "antonio@gmail.com",
+            "curso": "atonies"
+        },
+        {
+            "id": 3,
+            "nome": "robervaldo",
+            "email": "robervaldo@gmail.com",
+            "curso": "robervaldes"
+        }
+    ]
+}
