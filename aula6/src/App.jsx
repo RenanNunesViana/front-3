@@ -1,0 +1,38 @@
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import './App.css'
+import Afaculdade from './pages/Afaculdade'
+import Dpolgpd from './pages/Dpolgpd'
+import Noticias from './pages/Noticias'
+import Inicial from './pages/Inicial'
+import Navbar from './components/Navbar'
+import VisualizaNoticia from './pages/VisualizaNoticia'
+
+function App() {
+
+  return (
+    <>
+      <BrowserRouter>
+        <header>
+          <ul>
+            <li><a href='http://localhost:5173/'>Home</a></li>
+            <li><a href='http://localhost:5173/afaculdade'>A faculdade</a></li>
+            <li><a href='http://localhost:5173/noticias'>Noticias</a></li>
+            <li><a href='http://localhost:5173/dpolgpd'>Dpolgpd</a></li>
+          </ul>
+          <img src="data:image/png;base64,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" alt="uniesp logo" />
+        </header>
+        <Navbar />
+        <Routes>
+          <Route path='/' element={<Inicial />} />
+          <Route path='/afaculdade' element={<Afaculdade />} />
+          <Route path='/dpolgpd' element={<Dpolgpd />} />
+          <Route path='/noticias' element={<Noticias />} />
+          <Route path='/visualiza-noticia/:id' element={<VisualizaNoticia />} />
+        </Routes>
+
+      </BrowserRouter>
+    </>
+  )
+}
+
+export default App

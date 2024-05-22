@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+    align-items: center;
+}
+
+header img {
+    height: 80px;
+}
+
+header ul {
+    display: flex;
+    width: 30%;
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+header li:hover {
+    background-color: aqua;
+}
+
+header li {
+    text-decoration: none;
+}
+
+Routes {
+    margin-top: 100px;
+}
