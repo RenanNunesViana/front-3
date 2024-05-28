@@ -1,0 +1,28 @@
+{
+  "noticias": [
+    {
+      "titulo": "MBA em Marketing e Inovação realiza aula magna nesta sexta",
+      "subtitulo": "EDITADO: O encontro terá como tema “O marketing e a inovação que o mercado realmente precisa”",
+      "texto": "O MBA em Marketing e Inovação, pós-graduação do UNIESP, irá realizar sua aula magna nesta sexta-feira (19), a partir das 19h na Sala de Leitura da Biblioteca, 1º andar do Bloco Central. O encontro terá como tema “O marketing e a inovação que o mercado realmente precisa” e terá como ministrantes os professores André Felisberto, Gareth Butcher, Luciana Rabay e Suelen Pinto. A participação é gratuita, não sendo necessária a inscrição.",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "titulo": "Programa oferece 15 vagas estágio remunerado para alunos de Sistemas",
+      "subtitulo": "Em parceria exclusiva com o UNIESP, a Compass UOL abriu seleção para a trilha de formação em RPA – Robobitc Process Automation",
+      "texto": "O MBA em Marketing e Inovação, pós-graduação do UNIESP, irá realizar sua aula magna nesta sexta-feira (19), a partir das 19h na Sala de Leitura da Biblioteca, 1º andar do Bloco Central. O encontro terá como tema “O marketing e a inovação que o mercado realmente precisa” e terá como ministrantes os professores André Felisberto, Gareth Butcher, Luciana Rabay e Suelen Pinto. A participação é gratuita, não sendo necessária a inscrição."
+    },
+    {
+      "titulo": "Puttin ta MUITO puto",
+      "subtitulo": "puto esta o putin",
+      "texto": "Um esboço de decreto do Ministério da Defesa datado de 21 de maio, publicado em um portal oficial russo, propôs o ajuste da fronteira ao redor das ilhas russas na parte oriental do Golfo da Finlândia e ao redor de Kaliningrado.",
+      "id": "aa1d"
+    },
+    {
+      "titulo": "Testando componente com check de proptype",
+      "subtitulo": "vai dar certo",
+      "texto": "estou a testar um novo componente para voestra graccia!",
+      "id": "f8ab"
+    }
+  ]
+}
